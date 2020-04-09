@@ -1,2 +1,4 @@
-def parrot(Squawk!="Preety bird!")
+def parrot(string="Squawk!")
+  puts "#{string}"
+  "#{string}"
 end
