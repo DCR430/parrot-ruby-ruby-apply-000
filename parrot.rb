@@ -1,2 +1,2 @@
-def parrot(Squawk!,Prettybird!)
+def parrot
 end
